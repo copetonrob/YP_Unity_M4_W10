@@ -4,7 +4,7 @@
 
 В этом задании мы посадим несколько апельсиновых деревьев и подождем, пока с деревьев упадут апельсины.
 
-<img src="https://github.com/copetonrob/YP_Unity_M4_W7/blob/main/img/task1_1.gif" width="600"/>
+<img src="https://github.com/copetonrob/YP_Unity_M4_W10/blob/main/img/task1_1.gif" width="600"/>
 
 ## Инструкция
 
@@ -20,4 +20,4 @@
 
 Сделай так, чтобы через 5 секунд после появления, апельсин плавно уменьшался в размерах, пока не становился совсем маленьким, после чего исчезал.
 
-<img src="https://github.com/copetonrob/YP_Unity_M4_W7/blob/main/img/task1_2.gif" width="600"/>
+<img src="https://github.com/copetonrob/YP_Unity_M4_W10/blob/main/img/task1_2.gif" width="600"/>

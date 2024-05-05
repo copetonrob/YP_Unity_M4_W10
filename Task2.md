@@ -4,7 +4,7 @@
 
 В этом задании мы сделаем кукурузную ферму.
 
-<img src="https://github.com/copetonrob/YP_Unity_M4_W7/blob/main/img/task2.gif" width="600"/>
+<img src="https://github.com/copetonrob/YP_Unity_M4_W10/blob/main/img/task2.gif" width="600"/>
 
 ## Инструкция
 
